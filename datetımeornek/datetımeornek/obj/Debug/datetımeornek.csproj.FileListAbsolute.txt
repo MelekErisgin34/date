@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\bin\Debug\datetımeornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\bin\Debug\datetımeornek.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\bin\Debug\datetımeornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.exe
+C:\Users\User\Desktop\KORUMASIZ\melek\datetımeornek\datetımeornek\obj\Debug\datetımeornek.pdb
